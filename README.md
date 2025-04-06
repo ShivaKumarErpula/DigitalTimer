@@ -10,11 +10,7 @@ This is a beautiful digital clock made with pure HTML, CSS, and vanilla JS. It s
 
 ## 📸 Preview
 
-![Digital Clock Screenshot](screenshot.png)
-
-## 🚀 Try it Live
-
-[👉 View Demo](https://yourusername.github.io/digital-clock)
+![image](https://github.com/user-attachments/assets/0a225926-8193-4f0a-a15b-af8a666d879f)
 
 ## 🧠 How it Works
 - `setInterval()` updates the clock every 1000 milliseconds
