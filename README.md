@@ -23,4 +23,4 @@ This is a beautiful digital clock made with pure HTML, CSS, and vanilla JS. It s
 
 ---
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Shiva
